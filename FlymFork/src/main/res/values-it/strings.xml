@@ -49,7 +49,7 @@
     <string name="menu_add_group">Aggiungi gruppo</string>
     <string name="menu_import">Importa OPML</string>
     <string name="menu_export">Esporta OPML</string>
-    <string name="storage_request_explanation">To be able to import or export the feeds from or to a file, you must allow the application to access to the storage memory.</string>
+    <string name="storage_request_explanation">Per poter importare o esportare i feed, è necessario consentire all'applicazione di accedere alla memoria di archiviazione.</string>
     <string name="error_feed_error">L\'indirizzo del feed non può essere raggiunto.</string>
     <string name="error_feed_process">Il feed non può essere processato.</string>
     <string name="error_feed_url_exists">L\'indirizzo è già presente.</string>
@@ -83,8 +83,8 @@
     <string name="add_group_title">Inserire nome del gruppo</string>
     <string name="edit_group_title">Modificare nome del gruppo</string>
     <string name="message_exported_to">Esportato su %s.</string>
-    <string name="to_group_title">Azione spostamento feed</string>
-    <string name="to_group_message">Puoi sia spostare il feed dentro il gruppo sia prima del gruppo.
+    <string name="to_group_title">Spostamento feed</string>
+    <string name="to_group_message">Puoi spostare il feed dentro il gruppo oppure prima del gruppo.
         Cosa vuoi fare?
     </string>
     <string name="to_group_above">Sopra il gruppo</string>
@@ -103,8 +103,8 @@
     <string name="google_news_custom_topic">Enter custom topic</string>
 
     <!-- ENTRIES -->
-    <string name="unread_entries">Unread</string>
-    <string name="all_entries">All entries</string>
+    <string name="unread_entries">Non letti</string>
+    <string name="all_entries">Tutti</string>
     <string name="no_entries">Nessun articolo</string>
     <string name="favorites">Preferiti</string>
     <string name="context_menu_share_starred">Condividi articoli preferiti</string>
@@ -126,8 +126,8 @@
     <string name="download_and_save">Scarica e salva</string>
     <string name="open_link">Apri link</string>
     <string name="tip_sentence">Suggerimento: fai scorrere a sinistra per segnare come letto</string>
-    <string name="undo">Undo</string>
-    <string name="marked_as_read">Marked as read</string>
+    <string name="undo">Rimuovi</string>
+    <string name="marked_as_read">Segna come letto</string>
 
     <!-- WIDGET -->
     <string name="red">Rosso</string>
