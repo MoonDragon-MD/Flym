@@ -103,7 +103,7 @@
     <string name="google_news_custom_topic">Enter custom topic</string>
 
     <!-- ENTRIES -->
-    <string name="unread_entries">Unread</string>
+    <string name="unread_entries">Da leggere</string>
     <string name="all_entries">All entries</string>
     <string name="no_entries">Nessun articolo</string>
     <string name="favorites">Preferiti</string>
